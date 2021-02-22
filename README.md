@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/TuyaInc/tuyasmart_home_android_sdk)
+
 ### Note: This repository will be deprecated soon, please refer to the new repository in the Tuya Github Organization: https://github.com/tuya/tuya-home-android-sdk.
 
 ## Tuya Smart Android SDK
